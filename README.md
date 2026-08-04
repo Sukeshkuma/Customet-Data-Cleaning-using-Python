@@ -83,8 +83,7 @@ Customer-Data-Cleaning/
 ├── Raw_Customer_Data.csv
 ├── Cleaned_Customer_Dataset.csv
 ├── README.md
-└── images/
-    └── boxplot.png
+└── boxplot.png
 
 ---
 
